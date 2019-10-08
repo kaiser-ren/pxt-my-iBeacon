@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*"
+        "bluetooth": "*",
+        "pxt-my-ibeacon": "workspace:63f826ec-cddc-45f5-d426-4555660ef49a"
     },
     "files": [
         "README.md",
@@ -14,5 +15,6 @@
         "test.ts"
     ],
     "public": false,
-    "additionalFilePaths": []
+    "preferredEditor": "tsprj",
+    "installedVersion": "workspace:63f826ec-cddc-45f5-d426-4555660ef49a"
 }
